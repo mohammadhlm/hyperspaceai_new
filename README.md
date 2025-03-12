@@ -5,7 +5,7 @@
 ## 🚀 Быстрая установка 
 
 ```bash
-rm -f hype.sh && wget -nc --no-cache https://raw.githubusercontent.com/mohammadhlm/hyperspaceai/main/hype.sh && chmod +x hype.sh && ./hype.sh
+rm -f hype.sh && wget -nc --no-cache https://raw.githubusercontent.com/mohammadhlm/hyperspaceai_new/main/hype.sh && chmod +x hype.sh && ./hype.sh
 ```
 
 ## 🔑 Получение и вставка приватного ключа
